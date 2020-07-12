@@ -1,4 +1,6 @@
 # MyGitTest
 This repository is only for my basic learning for git usage.
 
-feacture 1 complete
+feature 1 complete
+
+feature 3 in progress

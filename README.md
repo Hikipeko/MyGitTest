@@ -3,4 +3,4 @@ This repository is only for my basic learning for git usage.
 
 feature 1 complete
 
-feature 2 in progress
+feature 2 almost complete

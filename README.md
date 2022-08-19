@@ -5,3 +5,4 @@ feature 1
 feature 2 in progress
 feature 4
 feature 5
+feature 6

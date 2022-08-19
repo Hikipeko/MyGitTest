@@ -2,3 +2,4 @@
 2. each group member holds a branch, create new branch for feature, bugs, etc.
 3. let other group members check before mergeing with master
 4. if conflict when merging, pull -> resolve conflict -> merge
+5. add something newS
